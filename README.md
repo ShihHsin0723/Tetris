@@ -1,5 +1,4 @@
-# Tetris
-CSC258 Final Course Project
+# CSC258 Final Course Project - Tetris
 
 A Tetris game developed by completely using assembly code with the following features:
 - Sound effects for rotating, shifting, and dropping tetrominoes
